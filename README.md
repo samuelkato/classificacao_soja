@@ -15,7 +15,7 @@ sistema para avaliar qualidade da soja
 		- buffer para ser enviado qdo houver internet OK
 	- destravar caixa OK
 	- atualizacao automatica OK
-servidor:
+- servidor:
 	- receber foto e outros dados do rpi OK
 	- pesquisar dados em um sistema externo
 	- comparar dados
