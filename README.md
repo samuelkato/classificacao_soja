@@ -27,6 +27,8 @@ sistema para avaliar qualidade da soja
 		- permitir criação e remoção de classificações pela interface
 	- comunicacao segura entre o servidor e o cliente
   - classificação automática da foto feita com keras e tensorflow
+  	- código de aprendizado de máquina basedo no seguinte exemplo:
+  		- https://pyimagesearch.com/2017/12/11/image-classification-with-keras-and-deep-learning/
 	- guardar fotos em pasta msm OK
 		- como gerar nome unico para as imagens
 	- dados em mongo OK
