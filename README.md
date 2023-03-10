@@ -31,6 +31,6 @@ sistema para avaliar qualidade da soja
   		- https://pyimagesearch.com/2017/12/11/image-classification-with-keras-and-deep-learning/
 	- guardar fotos em pasta msm OK
 		- como gerar nome unico para as imagens
-	- dados em mongo OK
+	- aguardando dados reais para recriar o classificador
 	
 	
